@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
+
+.line {
+    content: "";
+    display: block;
+    width: 150px;
+    border-bottom: 1px solid black;
+    margin: 20px auto;
+}
